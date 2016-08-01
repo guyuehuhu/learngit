@@ -1,2 +1,2 @@
 Git is a °¡°¡ control system.
-Git is free software.
+Git is good software.
