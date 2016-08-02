@@ -1,2 +1,2 @@
-Git is a °¡°¡ control system.
+Git is a aa control system.
 Git is good software.
